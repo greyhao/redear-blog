@@ -1,0 +1,12 @@
+android:
+  label: Android
+  permalink: /android
+  description: Android 开发经验总结
+css:
+  label: css
+  permalink: /css
+  description: css 的使用
+随笔:
+  label: 随笔
+  permalink: /random
+  description: 日常记录
