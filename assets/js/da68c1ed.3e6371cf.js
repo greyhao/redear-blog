@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkredear_blog=self.webpackChunkredear_blog||[]).push([[219],{4797:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/redear-blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

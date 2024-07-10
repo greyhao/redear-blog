@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://greyhao.github.io/redear/blog</id>
+    <id>https://greyhao.github.io/redear-blog/blog</id>
     <title>Redear Blog</title>
     <updated>2024-07-10T02:54:10.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://greyhao.github.io/redear/blog"/>
+    <link rel="alternate" href="https://greyhao.github.io/redear-blog/blog"/>
     <subtitle>Redear Blog</subtitle>
-    <icon>https://greyhao.github.io/redear/img/favicon.ico</icon>
+    <icon>https://greyhao.github.io/redear-blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[🎉 欢迎访问我的个人网站]]></title>
-        <id>https://greyhao.github.io/redear/blog/hello</id>
-        <link href="https://greyhao.github.io/redear/blog/hello"/>
+        <id>https://greyhao.github.io/redear-blog/blog/hello</id>
+        <link href="https://greyhao.github.io/redear-blog/blog/hello"/>
         <updated>2024-07-10T02:54:10.000Z</updated>
         <summary type="html"><![CDATA[🎉]]></summary>
         <content type="html"><![CDATA[<h2>🎉</h2>
