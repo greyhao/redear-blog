@@ -1,41 +1,6 @@
-# Website
+# Readear-blog
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+作为程序员，开发过很多项目也学习了很多技术，有一天发现自己的这些经历和经验整理成文字的比较少，所以搭建了这个项目用来记录。
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+如果内容对你有帮助，可以给个 ⭐️ 和关注。
+或者你有技术问题想一起探讨，可以社交平台私信。

@@ -5,7 +5,6 @@ import Link from '@docusaurus/Link';
 
 type FeatureItem = {
   title: string;
-  // Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: JSX.Element;
 };
 
@@ -26,24 +25,12 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
-
-  // {
-  //   title: 'Powered by React',
-  //   Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-  //   description: (
-  //     <>
-  //       Extend or customize your website layout by reusing React. Docusaurus can
-  //       be extended while reusing the same header and footer.
-  //     </>
-  //   ),
-  // },
 ];
 
 function Feature({ title, description }: FeatureItem) {
   return (
     <div className={clsx('col col--6')}>
       <div className="text--center">
-        {/* <Svg className={styles.featureSvg} role="img" /> */}
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
