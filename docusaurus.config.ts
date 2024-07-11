@@ -38,8 +38,20 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
+  scripts: [
+    // beamanalytics config
+    {
+      src: 'https://beamanalytics.b-cdn.net/beam.min.js',
+      'data-token': '6d5cf1f8-046a-4f1a-94fa-6e17c8c2ada6',
+      async: true,
+    },
+  ],
   themeConfig: {
+    metadata: [
+      {
+        name: 'keywords', content: 'blog, notes, android, css, html, react, TypeScript, JavaScript, Java, Kotlin, developer,'
+      },
+    ],
     announcementBar: {
       content: "如果网站中的内容对你有帮助，那就太好了～",
       backgroundColor: "rgb(250, 251, 252)",
