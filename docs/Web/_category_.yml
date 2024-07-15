@@ -1,0 +1,9 @@
+# 设置目录在左侧栏的配置
+position: 2 # float position is supported
+label: 'Web'
+collapsible: true # make the category collapsible
+collapsed: false # keep the category open by default
+link:
+  type: generated-index
+  title: 📝 Web 开发相关
+  description: 包含前段开发的基础如 HTML、CSS，框架及其他使用到的技术或工具

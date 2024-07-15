@@ -38,14 +38,14 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-  scripts: [
-    // beamanalytics config
-    {
-      src: 'https://beamanalytics.b-cdn.net/beam.min.js',
-      'data-token': '6d5cf1f8-046a-4f1a-94fa-6e17c8c2ada6',
-      async: true,
-    },
-  ],
+  // scripts: [
+  //   // beamanalytics config
+  //   {
+  //     src: 'https://beamanalytics.b-cdn.net/beam.min.js',
+  //     'data-token': '6d5cf1f8-046a-4f1a-94fa-6e17c8c2ada6',
+  //     async: true,
+  //   },
+  // ],
   themeConfig: {
     metadata: [
       {
