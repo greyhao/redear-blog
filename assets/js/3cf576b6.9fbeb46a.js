@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkredear_blog=self.webpackChunkredear_blog||[]).push([[7441],{5036:e=>{e.exports=JSON.parse('{"tags":[{"label":"android","permalink":"/redear-blog/docs/tags/android","count":4},{"label":"chrome","permalink":"/redear-blog/docs/tags/chrome","count":1},{"label":"web","permalink":"/redear-blog/docs/tags/web","count":2}]}')}}]);
