@@ -2,10 +2,30 @@ android:
   label: Android
   permalink: /android
   description: Android 开发经验总结
+web:
+  lable: web
+  permalink: /web
+  description: web 开发总结
 css:
   label: css
   permalink: /css
   description: css 的使用
+ts:
+  label: ts
+  permalink: /ts
+  description: ts 相关
+react:
+  label: react
+  permalink: /react
+  description: react 相关
+chrome:
+  lable: chrome
+  permalink: /chrome
+  description: chrome 使用及插件开发相关内容
+figma:
+  lable: figma
+  permalink: /figma
+  description: 程序员的 figma 之旅
 随笔:
   label: 随笔
   permalink: /random
